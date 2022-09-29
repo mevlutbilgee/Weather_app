@@ -61,6 +61,7 @@ body {
   background-image: url(https://imgs.search.brave.com/-KIkahxCUc2vw4rtrzQDmxC-BytcONg4t2IE_Pbq_4g/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9kZWhh/eWY1bWh3MWg3LmNs/b3VkZnJvbnQubmV0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9zaXRl/cy8xMzE3LzIwMjAv/MDIvMTcyMjQ3MDQv/d2ludGVyX2luZGlh/bmFfdGhpbmtzdG9j/a3Bob3Rvcy00OTQw/MDI5OTIuanBn);
   background-size: cover;
   background-repeat: no-repeat;
+  height: 2000px;
 }
 
 .container {
@@ -221,6 +222,10 @@ body {
   .ajax-section .city-temp {
     font-size: 3rem;
   }
+  body {
+    padding: 15px;
+    height: 2000px;
+  }
 
   .ajax-section {
     margin-top: 20px;
@@ -255,6 +260,7 @@ body {
 @media screen and (max-width: 500px) {
   body {
     padding: 15px;
+    /* height: 2000px; */
   }
   input {
     width: 20%;
