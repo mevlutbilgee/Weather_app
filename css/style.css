@@ -257,6 +257,10 @@ body {
   body {
     padding: 15px;
   }
+  input {
+    width: 20%;
+    margin: auto;
+  }
 
   .ajax-section .cities {
     grid-template-columns: repeat(1, 1fr);
