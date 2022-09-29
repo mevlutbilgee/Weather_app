@@ -260,7 +260,7 @@ body {
 @media screen and (max-width: 500px) {
   body {
     padding: 15px;
-    /* height: 2000px; */
+    height: 2000px;
   }
   input {
     width: 20%;
